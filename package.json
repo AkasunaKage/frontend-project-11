@@ -1,4 +1,12 @@
 {
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "on-change": "^4.0.2",
+    "yup": "^0.32.11"
+  },
   "name": "@hexlet/code",
   "version": "1.0.0",
   "description": "3th project",
